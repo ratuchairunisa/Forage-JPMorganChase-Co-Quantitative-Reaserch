@@ -52,16 +52,15 @@ JPMorgan Chase &amp; Co. Quantitative Research (Forage) — natural gas storage 
 ---
 
 ## 📑 Stakeholder Report Gas & Credit Risk
+<img width="1920" height="1080" alt="1" src="https://github.com/user-attachments/assets/56de4c5c-8889-4e8d-82f1-fe728e4c38bf" />
+<img width="1920" height="1080" alt="2" src="https://github.com/user-attachments/assets/2343f6ea-606b-4c5d-a6cf-ea774adf98d3" />
+<img width="1920" height="1080" alt="3" src="https://github.com/user-attachments/assets/ce4c8340-93b1-4700-816c-a3bcf20e38fb" />
+<img width="1920" height="1080" alt="4" src="https://github.com/user-attachments/assets/8ffb330b-2ce2-4cd7-afba-da675dbf037a" />
+<img width="1920" height="1080" alt="5" src="https://github.com/user-attachments/assets/c174559a-0c32-4c11-b847-65be1b136631" />
+<img width="1920" height="1080" alt="6" src="https://github.com/user-attachments/assets/ea0541ba-e60a-4ffc-8249-f4ff1f060f5c" />
+<img width="1920" height="1080" alt="7" src="https://github.com/user-attachments/assets/34184701-1671-4f8d-b211-dc2e79514c6a" />
+<img width="1920" height="1080" alt="8" src="https://github.com/user-attachments/assets/9fa86c6c-7ce1-406f-86b1-57bfaac5353b" />
+<img width="1920" height="1080" alt="9" src="https://github.com/user-attachments/assets/78dc4c53-d226-4aba-a127-56badc66733a" />
+<img width="1920" height="1080" alt="10" src="https://github.com/user-attachments/assets/5856b8db-112a-4e02-ba06-ea8a714b2920" />
+<img width="1920" height="1080" alt="11" src="https://github.com/user-attachments/assets/2a7be377-f2fd-4c91-9d1a-45c918a9013e" />
 
-
-
-## 🛠️ Skills Demonstrated
-
-`Python` · `pandas` · `numpy` · Time-series interpolation & extrapolation · Dynamic programming / optimization · Statistical quantization (MSE, log-likelihood) · Financial modeling (cash-flow based contract pricing) · Excel/spreadsheet modeling (`SUMIFS`, `COUNTIFS`, dynamic formulas, charting) · Business interpretation & stakeholder-ready reporting
-
----
-
-## 📬 Contact
-
-**Ratu Chairunisa (Queeniee)**
-[LinkedIn](https://linkedin.com/in/ratuchairunisa)
